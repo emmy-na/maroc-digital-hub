@@ -1,0 +1,484 @@
+{
+  "startups": [
+    {
+      "id": "s1_ia",
+      "nom": "CogniData",
+      "secteur": "IA",
+      "ville": "Rabat",
+      "date_creation": "2023-05-10",
+      "description_courte": "Développement de modèles d'IA pour l'analyse prédictive B2B.",
+      "stade_developpement": "Phase Alpha",
+      "recherche_fonds": true,
+      "montant_recherche": 600000,
+      "contact_email": "contact@cognidata.ma",
+      "logo_url": "/images/logos/cognidata.png"
+    },
+    {
+      "id": "s2_ia",
+      "nom": "DeepSight",
+      "secteur": "IA",
+      "ville": "Casablanca",
+      "date_creation": "2022-11-20",
+      "description_courte": "Solution de vision par ordinateur pour l'inspection industrielle automatisée.",
+      "stade_developpement": "MVP",
+      "recherche_fonds": false,
+      "montant_recherche": 0,
+      "contact_email": "info@deepsight.ma",
+      "logo_url": "/images/logos/deepsight.png"
+    },
+    {
+      "id": "s3_ia",
+      "nom": "LexiBot",
+      "secteur": "IA",
+      "ville": "Casablanca",
+      "date_creation": "2024-01-05",
+      "description_courte": "Chatbot juridique basé sur le traitement du langage naturel (NLP).",
+      "stade_developpement": "Phase Beta",
+      "recherche_fonds": true,
+      "montant_recherche": 300000,
+      "contact_email": "hello@lexibot.ma",
+      "logo_url": "/images/logos/lexibot.png"
+    },
+    {
+      "id": "s4_ia",
+      "nom": "AlgoTrade",
+      "secteur": "IA",
+      "ville": "Casablanca",
+      "date_creation": "2023-07-01",
+      "description_courte": "Systèmes de trading algorithmique optimisés par le Machine Learning.",
+      "stade_developpement": "MVP",
+      "recherche_fonds": true,
+      "montant_recherche": 1200000,
+      "contact_email": "sales@algotrade.ma",
+      "logo_url": "/images/logos/algotrade.png"
+    },
+    {
+      "id": "s5_ia",
+      "nom": "PredictiveCare",
+      "secteur": "IA",
+      "ville": "Marrakech",
+      "date_creation": "2024-02-15",
+      "description_courte": "Outil d'IA pour la détection précoce de maladies (voir aussi HealthTech).",
+      "stade_developpement": "Phase Alpha",
+      "recherche_fonds": true,
+      "montant_recherche": 450000,
+      "contact_email": "care@predictive.ma",
+      "logo_url": "/images/logos/predictivecare.png"
+    },
+    {
+      "id": "s6_ia",
+      "nom": "Synapse Analytics",
+      "secteur": "IA",
+      "ville": "Rabat",
+      "date_creation": "2022-09-10",
+      "description_courte": "Plateforme d'analyse de données clients pour PME, basée sur l'IA.",
+      "stade_developpement": "Produit établi",
+      "recherche_fonds": false,
+      "montant_recherche": 0,
+      "contact_email": "support@synapse.ma",
+      "logo_url": "/images/logos/synapse.png"
+    },
+    {
+      "id": "s7_ia",
+      "nom": "Vision Agricole",
+      "secteur": "IA",
+      "ville": "Fès",
+      "date_creation": "2024-04-01",
+      "description_courte": "Drones équipés d'IA pour le suivi de l'irrigation et des récoltes.",
+      "stade_developpement": "Phase Beta",
+      "recherche_fonds": true,
+      "montant_recherche": 800000,
+      "contact_email": "agri@vision.ma",
+      "logo_url": "/images/logos/visionagricole.png"
+    },
+    {
+      "id": "s8_ia",
+      "nom": "TuneFlow",
+      "secteur": "IA",
+      "ville": "Tanger",
+      "date_creation": "2023-03-25",
+      "description_courte": "Générateur de musique et de sons d'ambiance par IA pour créateurs de contenu.",
+      "stade_developpement": "MVP",
+      "recherche_fonds": false,
+      "montant_recherche": 0,
+      "contact_email": "media@tuneflow.ma",
+      "logo_url": "/images/logos/tuneflow.png"
+    },
+    {
+      "id": "s9_fin",
+      "nom": "PayFortress",
+      "secteur": "FinTech",
+      "ville": "Casablanca",
+      "date_creation": "2022-08-01",
+      "description_courte": "Solution d'agrégation de comptes et de gestion de budget personnel.",
+      "stade_developpement": "Produit établi",
+      "recherche_fonds": false,
+      "montant_recherche": 0,
+      "contact_email": "business@payfortress.ma",
+      "logo_url": "/images/logos/payfortress.png"
+    },
+    {
+      "id": "s10_fin",
+      "nom": "MicroCrédit Plus",
+      "secteur": "FinTech",
+      "ville": "Marrakech",
+      "date_creation": "2024-03-10",
+      "description_courte": "Plateforme de micro-crédit P2P (pair-à-pair) pour les TPE.",
+      "stade_developpement": "Phase Beta",
+      "recherche_fonds": true,
+      "montant_recherche": 750000,
+      "contact_email": "credit@microplus.ma",
+      "logo_url": "/images/logos/microcreditplus.png"
+    },
+    {
+      "id": "s11_fin",
+      "nom": "RibaCash",
+      "secteur": "FinTech",
+      "ville": "Rabat",
+      "date_creation": "2023-10-15",
+      "description_courte": "Services de transfert d'argent mobile sans frais cachés.",
+      "stade_developpement": "MVP",
+      "recherche_fonds": true,
+      "montant_recherche": 400000,
+      "contact_email": "transfer@ribacash.ma",
+      "logo_url": "/images/logos/ribacash.png"
+    },
+    {
+      "id": "s12_fin",
+      "nom": "Invoicify",
+      "secteur": "FinTech",
+      "ville": "Agadir",
+      "date_creation": "2024-05-20",
+      "description_courte": "Logiciel de facturation et de gestion des dépenses pour les freelancers.",
+      "stade_developpement": "Phase Alpha",
+      "recherche_fonds": true,
+      "montant_recherche": 250000,
+      "contact_email": "support@invoicify.ma",
+      "logo_url": "/images/logos/invoicify.png"
+    },
+    {
+      "id": "s13_fin",
+      "nom": "CryptoMaroc",
+      "secteur": "FinTech",
+      "ville": "Casablanca",
+      "date_creation": "2022-01-28",
+      "description_courte": "Plateforme d'échange de crypto-monnaies réglementée (simulation).",
+      "stade_developpement": "Produit établi",
+      "recherche_fonds": false,
+      "montant_recherche": 0,
+      "contact_email": "trade@cryptomaroc.ma",
+      "logo_url": "/images/logos/cryptomaroc.png"
+    },
+    {
+      "id": "s14_fin",
+      "nom": "Hissab Pro",
+      "secteur": "FinTech",
+      "ville": "Kénitra",
+      "date_creation": "2024-02-01",
+      "description_courte": "API de vérification d'identité et de KYC pour services financiers.",
+      "stade_developpement": "Phase Beta",
+      "recherche_fonds": true,
+      "montant_recherche": 550000,
+      "contact_email": "dev@hissabpro.ma",
+      "logo_url": "/images/logos/hissabpro.png"
+    },
+    {
+      "id": "s15_fin",
+      "nom": "AssurDigital",
+      "secteur": "FinTech",
+      "ville": "Tanger",
+      "date_creation": "2023-04-12",
+      "description_courte": "Comparateur et souscription d'assurances 100% en ligne (InsurTech).",
+      "stade_developpement": "MVP",
+      "recherche_fonds": false,
+      "montant_recherche": 0,
+      "contact_email": "contact@assurdigital.ma",
+      "logo_url": "/images/logos/assurdigital.png"
+    },
+    {
+      "id": "s16_eco",
+      "nom": "SoukExpress",
+      "secteur": "E-commerce",
+      "ville": "Casablanca",
+      "date_creation": "2021-12-05",
+      "description_courte": "Marketplace pour produits artisanaux locaux avec livraison express.",
+      "stade_developpement": "Produit établi",
+      "recherche_fonds": false,
+      "montant_recherche": 0,
+      "contact_email": "vendeur@soukexpress.ma",
+      "logo_url": "/images/logos/soukexpress.png"
+    },
+    {
+      "id": "s17_eco",
+      "nom": "FashionHub MA",
+      "secteur": "E-commerce",
+      "ville": "Rabat",
+      "date_creation": "2023-02-18",
+      "description_courte": "Vente en ligne de vêtements de créateurs marocains pour l'export.",
+      "stade_developpement": "MVP",
+      "recherche_fonds": true,
+      "montant_recherche": 350000,
+      "contact_email": "export@fashionhub.ma",
+      "logo_url": "/images/logos/fashionhub.png"
+    },
+    {
+      "id": "s18_eco",
+      "nom": "BioFerme Direct",
+      "secteur": "E-commerce",
+      "ville": "Agadir",
+      "date_creation": "2024-06-01",
+      "description_courte": "E-commerce de produits frais bio livrés directement des fermes.",
+      "stade_developpement": "Phase Alpha",
+      "recherche_fonds": true,
+      "montant_recherche": 400000,
+      "contact_email": "fresh@bioferme.ma",
+      "logo_url": "/images/logos/biofermedirect.png"
+    },
+    {
+      "id": "s19_eco",
+      "nom": "Gadgetiz",
+      "secteur": "E-commerce",
+      "ville": "Casablanca",
+      "date_creation": "2022-07-20",
+      "description_courte": "E-commerce de gadgets électroniques et de technologie connectée.",
+      "stade_developpement": "Produit établi",
+      "recherche_fonds": false,
+      "montant_recherche": 0,
+      "contact_email": "tech@gadgetiz.ma",
+      "logo_url": "/images/logos/gadgetiz.png"
+    },
+    {
+      "id": "s20_eco",
+      "nom": "Livraison Rapide",
+      "secteur": "E-commerce",
+      "ville": "Fès",
+      "date_creation": "2023-09-05",
+      "description_courte": "Service logistique du dernier kilomètre optimisé pour l'e-commerce.",
+      "stade_developpement": "Phase Beta",
+      "recherche_fonds": true,
+      "montant_recherche": 650000,
+      "contact_email": "logistics@livraisonrapide.ma",
+      "logo_url": "/images/logos/livraisonrapide.png"
+    },
+    {
+      "id": "s21_tur",
+      "nom": "Riad Finder",
+      "secteur": "Tourisme",
+      "ville": "Marrakech",
+      "date_creation": "2022-05-15",
+      "description_courte": "Plateforme de réservation de riads et maisons d'hôtes authentiques.",
+      "stade_developpement": "Produit établi",
+      "recherche_fonds": false,
+      "montant_recherche": 0,
+      "contact_email": "hosts@riadfinder.ma",
+      "logo_url": "/images/logos/riadfinder.png"
+    },
+    {
+      "id": "s22_tur",
+      "nom": "Sahara Aventure VR",
+      "secteur": "Tourisme",
+      "ville": "Ouarzazate",
+      "date_creation": "2024-01-25",
+      "description_courte": "Expériences de tourisme virtuel immersives en réalité virtuelle (VR).",
+      "stade_developpement": "Phase Beta",
+      "recherche_fonds": true,
+      "montant_recherche": 900000,
+      "contact_email": "vr@saharaaventure.ma",
+      "logo_url": "/images/logos/saharaaventure.png"
+    },
+    {
+      "id": "s23_tur",
+      "nom": "Local Guide MA",
+      "secteur": "Tourisme",
+      "ville": "Casablanca",
+      "date_creation": "2023-06-10",
+      "description_courte": "Mise en relation des touristes avec des guides locaux certifiés.",
+      "stade_developpement": "MVP",
+      "recherche_fonds": false,
+      "montant_recherche": 0,
+      "contact_email": "guides@localguidema.ma",
+      "logo_url": "/images/logos/localguidema.png"
+    },
+    {
+      "id": "s24_hlt",
+      "nom": "TeleMed Maroc",
+      "secteur": "HealthTech",
+      "ville": "Rabat",
+      "date_creation": "2022-10-01",
+      "description_courte": "Service de téléconsultation médicale en zones rurales et urbaines.",
+      "stade_developpement": "Produit établi",
+      "recherche_fonds": false,
+      "montant_recherche": 0,
+      "contact_email": "medecin@telemed.ma",
+      "logo_url": "/images/logos/telemed.png"
+    },
+    {
+      "id": "s25_hlt",
+      "nom": "Dossier Numérique Santé",
+      "secteur": "HealthTech",
+      "ville": "Casablanca",
+      "date_creation": "2023-03-05",
+      "description_courte": "Plateforme sécurisée de gestion des dossiers médicaux électroniques.",
+      "stade_developpement": "Phase Beta",
+      "recherche_fonds": true,
+      "montant_recherche": 850000,
+      "contact_email": "contact@dossier-sante.ma",
+      "logo_url": "/images/logos/dossiernumeriquesante.png"
+    },
+    {
+      "id": "s26_hlt",
+      "nom": "NutriTrack MA",
+      "secteur": "HealthTech",
+      "ville": "Casablanca",
+      "date_creation": "2024-04-10",
+      "description_courte": "Application mobile de suivi nutritionnel et de régime personnalisé.",
+      "stade_developpement": "MVP",
+      "recherche_fonds": false,
+      "montant_recherche": 0,
+      "contact_email": "app@nutritrack.ma",
+      "logo_url": "/images/logos/nutritrack.png"
+    },
+    {
+      "id": "s27_hlt",
+      "nom": "PharmaConnect",
+      "secteur": "HealthTech",
+      "ville": "Tanger",
+      "date_creation": "2023-08-20",
+      "description_courte": "Plateforme reliant les pharmacies aux distributeurs pour la gestion des stocks.",
+      "stade_developpement": "Phase Alpha",
+      "recherche_fonds": true,
+      "montant_recherche": 480000,
+      "contact_email": "log@pharmaconnect.ma",
+      "logo_url": "/images/logos/pharmaconnect.png"
+    },
+    {
+      "id": "s28_hlt",
+      "nom": "MentalZen",
+      "secteur": "HealthTech",
+      "ville": "Marrakech",
+      "date_creation": "2024-02-05",
+      "description_courte": "Application de bien-être mental et de méditation guidée.",
+      "stade_developpement": "MVP",
+      "recherche_fonds": true,
+      "montant_recherche": 320000,
+      "contact_email": "zen@mentalzen.ma",
+      "logo_url": "/images/logos/mentalzen.png"
+    },
+    {
+      "id": "s29_hlt",
+      "nom": "BioSense Dx",
+      "secteur": "HealthTech",
+      "ville": "Fès",
+      "date_creation": "2023-11-15",
+      "description_courte": "Développement de dispositifs de diagnostic rapides pour laboratoire.",
+      "stade_developpement": "Phase Alpha",
+      "recherche_fonds": true,
+      "montant_recherche": 1100000,
+      "contact_email": "rd@biosensedx.ma",
+      "logo_url": "/images/logos/biosensedx.png"
+    }
+  ],
+
+  "investisseurs": [
+    {
+      "id": "i1",
+      "nom": "Atlas Ventures Capital",
+      "type": "Fonds d'investissement",
+      "focu_secteurs": ["FinTech", "EdTech"],
+      "ville": "Casablanca",
+      "montant_min_investissement": 100000,
+      "contact_email": "invest@atlasvc.ma",
+      "site_web": "http://www.atlasvc.ma"
+    },
+    {
+      "id": "i2",
+      "nom": "Omar El Fassi",
+      "type": "Business Angel",
+      "focu_secteurs": ["AgriTech", "GreenTech"],
+      "ville": "Marrakech",
+      "montant_min_investissement": 20000,
+      "contact_email": "omar.fassi@example.com",
+      "site_web": null
+    }
+  ],
+
+  "evenements": [
+    {
+      "id": "e1",
+      "titre": "Pitch Day Maroc Digital 2024",
+      "date": "2025-11-10T10:00:00Z",
+      "lieu": "Technopark Casablanca",
+      "description": "Journée de présentation des startups devant des investisseurs.",
+      "categorie": "Pitch",
+      "participants_inscrits": 150,
+      "url_inscription": "/events/e1/register"
+    },
+    {
+      "id": "e2",
+      "titre": "Webinaire : L'IA dans le secteur public",
+      "date": "2025-10-25T18:00:00Z",
+      "lieu": "En ligne (Zoom)",
+      "description": "Discussion sur l'impact de l'intelligence artificielle.",
+      "categorie": "Conférence",
+      "participants_inscrits": 80,
+      "url_inscription": "/events/e2/register"
+    }
+  ],
+
+  "forum": {
+    "sujets": [
+      {
+        "id": "t1",
+        "titre": "Meilleures pratiques pour un MVP",
+        "auteur_id": "u1",
+        "date_creation": "2025-09-01T15:30:00Z",
+        "dernier_message": "2025-10-02T10:00:00Z",
+        "nombre_reponses": 5
+      }
+    ],
+    "messages": [
+      {
+        "id": "m1",
+        "sujet_id": "t1",
+        "auteur_id": "u2",
+        "contenu": "Je pense que se concentrer sur une seule fonctionnalité est clé.",
+        "date_envoi": "2025-09-01T16:00:00Z"
+      }
+    ]
+  },
+  "startup_du_mois": {
+    "id": "s1_ia",
+    "nom": "CogniData",
+    "secteur": "IA",
+    "description_longue": "CogniData est une startup visionnaire basée à Rabat, spécialisée dans le développement de modèles d'intelligence artificielle avancée. Sa mission est d'aider les entreprises à transformer leurs données brutes en insights exploitables pour la prise de décision. Leur solution permet une analyse prédictive ultra-précise, ouvrant la voie à des stratégies commerciales plus efficaces et plus ciblées.",
+    "ville": "Rabat",
+    "date_creation": "2023-05-10",
+    "stade_developpement": "Phase Alpha",
+    "recherche_fonds": true,
+    "montant_recherche": 600000,
+    "logo_url": "/images/logos/cognidata.png",
+    "image_hero_url": "/images/heroes/cognidata_hero.jpg",
+    "site_web": "http://www.cognidata.ma",
+    "reseaux_sociaux": {
+      "linkedin": "https://www.linkedin.com/company/cognidata",
+      "twitter": "https://twitter.com/cognidata"
+    },
+
+    "administrateurs": [
+      {
+        "id": "a1",
+        "nom_utilisateur": "admin_mdh",
+        "niveau_acces": "super_admin"
+      }
+    ],
+
+    "dashboard_stats_globales": {
+      "dashboard_stats_globales": {
+        "total_startups": 29,
+        "total_investisseurs": 45,
+        "total_evenements_mois": 5,
+        "startups_en_recherche_fonds": 18
+      }
+    }
+  }
+}
